@@ -7,6 +7,7 @@
 !!!SCT:	Duf1005a
 !!!SCA:	Duf1005a
 !!!voices:	4
+!!!voices-OPR:	4
 !!midi-transpose: -2
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -560,4 +561,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2013/11/21/
 !!!ONB:	Translated from MusicXML and edited on 2013/11/21/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,100Q4c150
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,100c180
