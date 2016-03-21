@@ -72,11 +72,11 @@
 1GG	-lis	.	.	1D	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11
 1G	pec-	0.r	.	0.C	-lis	0.e	pec-
-2E\	.	.	.	.	.	.	.
+2E\	-ca-	.	.	.	.	.	.
 2F\	.	.	.	.	.	.	.
 1G	.	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12
-0D	-ca-	0.A	an-	0.r	.	0f	-ca-
+0D	.	0.A	an-	0.r	.	0f	-ca-
 1D	-ta	.	.	.	.	1f	-ta
 =13	=13	=13	=13	=13	=13	=13	=13
 1GG	mun-	0.G	.	1D	pec-	2.g/	mun-
@@ -677,4 +677,4 @@
 !!!EEV:	2014/07/27/
 !!!ONB:	Translated from SCORE and edited on 2014/07/27/ by Craig Sapp
 !!!SMS: Ed. J. Rodin based on edition by A. Planchart
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SMS}^i2I150v85,85,85,130c160
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SMS}^i2I150v85,85,85,130c160z18
