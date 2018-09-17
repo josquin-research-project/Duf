@@ -509,7 +509,7 @@
 .	.	.	.	.	.	1cc	.
 .	.	.	.	2e\	.	.	.
 =87	=87	=87	=87	=87	=87	=87	=87
-1d	ex-	0G	-sis,	1g	.	1b	.
+1d	ex-	0G	.	1g	.	1b	.
 1B	.	.	.	1d	.	1.g	.
 1c	.	1r	.	1e	.	.	.
 .	.	.	.	.	.	2f/	.
@@ -534,9 +534,9 @@
 1G	.	.	.	1Bni	.	.	.
 .	.	.	.	.	.	2e/	.
 =91	=91	=91	=91	=91	=91	=91	=91
-0.Fl	-sis.	1.A	...cel-	0.cl	-sis.	0.fl	-sis.
+0.Fl	-sis.	1.A	-sis.	0.cl	-sis.	0.fl	-sis.
 .	.	2B\	.	.	.	.	.
-.	.	1cl	-sis.	.	.	.	.
+.	.	1cl	.	.	.	.	.
 !!LO:LB:i:g=z
 =92||	=92||	=92||	=92||	=92||	=92||	=92||	=92||
 *>D	*>D	*>D	*>D	*>D	*>D	*>D	*>D
@@ -990,4 +990,5 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2013/11/21/
 !!!ONB:	Translated from SCORE and edited on 2013/11/21/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v90,95,90,130Q16c73
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v90,95,90,130c155z18
+!!muse2ps-16: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v90,95,90,130Q16c73
