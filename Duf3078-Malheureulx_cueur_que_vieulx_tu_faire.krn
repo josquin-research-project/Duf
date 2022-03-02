@@ -1,10 +1,10 @@
-!!!COM:	Du Fay, Guillaume
-!!!CDT:	~1397/08/05/-1474/11/27
-!!!OTL:	Malheureulx cueur que vieulx tu faire
-!!!AGN:	Song; Chanson
-!!!SCT:	Duf3078
-!!!SCA:	Duf3078
-!!!voices:	3
+!!!COM: Du Fay, Guillaume
+!!!CDT: ~1397/08/05/-1474/11/27
+!!!OTL: Malheureulx cueur que vieulx tu faire
+!!!AGN: Song; Chanson
+!!!SCT: Duf3078
+!!!SCA: Duf3078
+!!!voices: 3
 **kern	**kern	**kern	**text	**text
 *staff2	*staff3	*staff1	*staff1	*staff1
 *Ivox	*Ivox	*Ivox	*	*
@@ -353,10 +353,10 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Jesse Rodin 3/28/2016
-!!!END:	2016/03/28/
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/03/30/
-!!!ONB:	Translated from MusicXML and edited on 2016/03/30/ by Craig Sapp
+!!!ENC: Jesse Rodin 3/28/2016
+!!!END: 2016/03/28/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/03/30/
+!!!ONB: Translated from MusicXML and edited on 2016/03/30/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v95,95,150Q8c99
 !!hum2mid: --met 252 --no-met2

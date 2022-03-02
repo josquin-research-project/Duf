@@ -1,10 +1,10 @@
-!!!OPR:	Ave maris stella, verse 2: Sumens illud ave
-!!!OTL:	chant
-!!!AGN:	Motet; Hymn; Chant
-!!!SCT:	Duf2027a
-!!!SCA:	Duf2027a
+!!!OPR: Ave maris stella, verse 2: Sumens illud ave
+!!!OTL: chant
+!!!AGN: Motet; Hymn; Chant
+!!!SCT: Duf2027a
+!!!SCA: Duf2027a
 !!!ONB: This is the chant which preceeds the hymn Jos2309 composed by Josquin.
-!!!voices:	1
+!!!voices: 1
 **kern	**text
 *staff3	*staff3
 *Ivox	*
@@ -60,10 +60,10 @@
 *-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin
-!!!END:	2016/03/16/
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/04/02/
-!!!ONB:	Translated from MusicXML and edited on 2016/04/02/ by Craig Sapp
+!!!ENC: Jesse Rodin
+!!!END: 2016/03/16/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/04/02/
+!!!ONB: Translated from MusicXML and edited on 2016/04/02/ by Craig Sapp
 !!muse2ps: C^^i2I150v150Q16z21t260l2400
 !!muse2ps: T^@{OPR}^u^@{OTL}^

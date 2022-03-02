@@ -1,13 +1,13 @@
-!!!COM:	Du Fay, Guillaume
-!!!CDT:	~1397/08/05/-1474/11/27
-!!!OPR:	Missa Se la face ay pale
-!!!ONM:	4
-!!!OTL:	Sanctus
-!!!AGN:	Mass; Sanctus
-!!!SCT:	Duf1005b
-!!!SCA:	Duf1005b
-!!!voices:	4
-!!!voices-OPR:	4
+!!!COM: Du Fay, Guillaume
+!!!CDT: ~1397/08/05/-1474/11/27
+!!!OPR: Missa Se la face ay pale
+!!!ONM: 4
+!!!OTL: Sanctus
+!!!AGN: Mass; Sanctus
+!!!SCT: Duf1005b
+!!!SCA: Duf1005b
+!!!voices: 4
+!!!voices-OPR: 4
 !!midi-transpose: -2
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -985,10 +985,10 @@
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin 8/28/2013
-!!!END:	2013/11/21/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/11/21/
-!!!ONB:	Translated from SCORE and edited on 2013/11/21/ by Craig Sapp
+!!!ENC: Jesse Rodin 8/28/2013
+!!!END: 2013/11/21/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/11/21/
+!!!ONB: Translated from SCORE and edited on 2013/11/21/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v90,95,90,130c155z18
 !!muse2ps-16: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v90,95,90,130Q16c73

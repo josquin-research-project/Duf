@@ -1,10 +1,10 @@
-!!!COM:	Du Fay, Guillaume
-!!!CDT:	~1397/08/05/-1474/11/27
-!!!OTL:	Resvellies vous et faites chiere lye (ballade)
-!!!AGN:	Song; Chanson; Ballade
-!!!SCT:	Duf3014
-!!!SCA:	Duf3014
-!!!voices:	3
+!!!COM: Du Fay, Guillaume
+!!!CDT: ~1397/08/05/-1474/11/27
+!!!OTL: Resvellies vous et faites chiere lye (ballade)
+!!!AGN: Song; Chanson; Ballade
+!!!SCT: Duf3014
+!!!SCA: Duf3014
+!!!voices: 3
 **kern	**text	**text	**kern	**text	**text	**kern	**text	**text
 *staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1
 *Ivox	*	*	*Ivox	*	*	*Ivox	*	*
@@ -518,9 +518,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Jesse Rodin 19 September 2017
-!!!END:	2017/09/25/
-!!!EED:	Jesse Rodin
-!!!EEV:	2017/09/26/
-!!!ONB:	Translated from MusicXML and edited on 2017/09/26/ by Craig Sapp
+!!!ENC: Jesse Rodin 19 September 2017
+!!!END: 2017/09/25/
+!!!EED: Jesse Rodin
+!!!EEV: 2017/09/26/
+!!!ONB: Translated from MusicXML and edited on 2017/09/26/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150l2600v95,95,150c140

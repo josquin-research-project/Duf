@@ -1,10 +1,10 @@
-!!!COM:	Du Fay, Guillaume
-!!!CDT:	~1397/08/05/-1474/11/27
-!!!OTL:	Resvelons nous resvelons amoureux / Alons en bien tos au may
-!!!AGN:	Song; Chanson
-!!!SCT:	Duf3069
-!!!SCA:	Duf3069
-!!!voices:	3
+!!!COM: Du Fay, Guillaume
+!!!CDT: ~1397/08/05/-1474/11/27
+!!!OTL: Resvelons nous resvelons amoureux / Alons en bien tos au may
+!!!AGN: Song; Chanson
+!!!SCT: Duf3069
+!!!SCA: Duf3069
+!!!voices: 3
 **kern	**text	**kern	**text	**kern	**text
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*
@@ -118,9 +118,9 @@
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Alejandro Planchart
-!!!END:	2016/03/17/
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/03/18/
-!!!ONB:	Translated from SCORE and edited on 2016/03/18/ by Craig Sapp
+!!!ENC: Alejandro Planchart
+!!!END: 2016/03/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/03/18/
+!!!ONB: Translated from SCORE and edited on 2016/03/18/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v115,115,180z18c95t300

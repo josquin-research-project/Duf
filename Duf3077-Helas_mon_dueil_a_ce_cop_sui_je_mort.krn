@@ -1,10 +1,10 @@
-!!!COM:	Du Fay, Guillaume
-!!!CDT:	~1397/08/05/-1474/11/27
-!!!OTL:	Helas mon dueil a ce cop sui je mort
-!!!AGN:	Song; Chanson
-!!!SCT:	Duf3077
-!!!SCA:	Duf3077
-!!!voices:	3
+!!!COM: Du Fay, Guillaume
+!!!CDT: ~1397/08/05/-1474/11/27
+!!!OTL: Helas mon dueil a ce cop sui je mort
+!!!AGN: Song; Chanson
+!!!SCT: Duf3077
+!!!SCA: Duf3077
+!!!voices: 3
 **kern	**text	**text	**kern	**kern	**text	**text
 *staff3	*staff3	*staff3	*staff2	*staff1	*staff1	*staff1
 *Ivox	*	*	*Ivox	*Ivox	*	*
@@ -292,9 +292,9 @@
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Alejandro Planchart
-!!!END:	2013///
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/03/28/
-!!!ONB:	Translated from SCORE and edited on 2016/03/28/ by Craig Sapp
+!!!ENC: Alejandro Planchart
+!!!END: 2013///
+!!!EED: Jesse Rodin
+!!!EEV: 2016/03/28/
+!!!ONB: Translated from SCORE and edited on 2016/03/28/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v95,95,150Q16z16l2550

@@ -1,11 +1,11 @@
-!!!COM:	Du Fay, Guillaume
-!!!CDT:	~1397/08/05/-1474/11/27
-!!!OPR:	Ave maris stella, verse 2: Sumens illud ave
-!!!OTL:	hymn
-!!!AGN:	Motet; Hymn
-!!!SCT:	Duf2027b
-!!!SCA:	Duf2027b
-!!!voices:	3
+!!!COM: Du Fay, Guillaume
+!!!CDT: ~1397/08/05/-1474/11/27
+!!!OPR: Ave maris stella, verse 2: Sumens illud ave
+!!!OTL: hymn
+!!!AGN: Motet; Hymn
+!!!SCT: Duf2027b
+!!!SCA: Duf2027b
+!!!voices: 3
 **kern	**text	**kern	**text	**kern	**text
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*
@@ -139,10 +139,10 @@
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin
-!!!END:	2016/03/16/
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/04/02/
-!!!ONB:	Translated from MusicXML and edited on 2016/04/02/ by Craig Sapp
+!!!ENC: Jesse Rodin
+!!!END: 2016/03/16/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/04/02/
+!!!ONB: Translated from MusicXML and edited on 2016/04/02/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v105,105,150Q16z18t300l2500
 !!muse2ps: T^@{OPR}^u^@{OTL}^

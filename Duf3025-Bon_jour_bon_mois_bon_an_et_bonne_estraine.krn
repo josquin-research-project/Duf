@@ -1,10 +1,10 @@
-!!!COM:	Du Fay, Guillaume
-!!!CDT:	~1397/08/05/-1474/11/27
-!!!OTL:	Bon jour bon mois bon an et bonne estraine
-!!!AGN:	Song; Chanson
-!!!SCT:	Duf3025
-!!!SCA:	Duf3025
-!!!voices:	3
+!!!COM: Du Fay, Guillaume
+!!!CDT: ~1397/08/05/-1474/11/27
+!!!OTL: Bon jour bon mois bon an et bonne estraine
+!!!AGN: Song; Chanson
+!!!SCT: Duf3025
+!!!SCA: Duf3025
+!!!voices: 3
 **kern	**text	**text	**text	**kern	**kern	**text	**text	**text
 *staff3	*staff3	*staff3	*staff3	*staff2	*staff1	*staff1	*staff1	*staff1
 *Ivox	*	*	*	*Ivox	*Ivox	*	*	*
@@ -212,9 +212,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: N=signum congruentiae
-!!!ENC:	Jesse Rodin 3/28/2016
-!!!END:	2016/03/28/
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/03/29/
-!!!ONB:	Translated from SCORE and edited on 2016/03/29/ by Craig Sapp
+!!!ENC: Jesse Rodin 3/28/2016
+!!!END: 2016/03/28/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/03/29/
+!!!ONB: Translated from SCORE and edited on 2016/03/29/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v95,95,140Q16l2500
